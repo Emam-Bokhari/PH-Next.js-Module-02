@@ -5,6 +5,7 @@ export default async function Products() {
   const response = await fetch("http://localhost:5000/products", {
     cache: "no-store",
   });
+  throw new Error("Hi!");
   const products = await response.json();
   return (
     <Fragment>
