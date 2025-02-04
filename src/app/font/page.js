@@ -1,5 +1,10 @@
 import { Fragment } from "react";
 
+export const metadata = {
+  title: "Font optimization",
+  description: "Practice how to optimize fonts",
+};
+
 export default function FontPage() {
   return (
     <Fragment>
