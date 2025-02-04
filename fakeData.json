@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Samsung Galaxy S23",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": 899,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 2,
+      "productName": "iPhone 14 Pro",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "price": 1099,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 3,
+      "productName": "Sony WH-1000XM5",
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": 399,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 4,
+      "productName": "MacBook Air M2",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 1199,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 5,
+      "productName": "Dell XPS 15",
+      "category": "Laptop",
+      "brand": "Dell",
+      "price": 1499,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 6,
+      "productName": "Asus ROG Strix G16",
+      "category": "Laptop",
+      "brand": "Asus",
+      "price": 1599,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 7,
+      "productName": "Bose QuietComfort 45",
+      "category": "Headphones",
+      "brand": "Bose",
+      "price": 329,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    },
+    {
+      "id": 8,
+      "productName": "Apple iPad Pro",
+      "category": "Tablet",
+      "brand": "Apple",
+      "price": 799,
+      "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
+    }
+  ]
+}
