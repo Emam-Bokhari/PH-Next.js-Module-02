@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "productName": "Samsung Galaxy S23",
+      "productName": "Samsung Galaxy Si",
       "category": "Smartphone",
       "brand": "Samsung",
-      "price": 1000,
+      "price": 10,
       "image": "https://media.very.co.uk/i/very/VPZ13_SQ1_0000000063_PINK_SLf?fmt=auto"
     },
     {
