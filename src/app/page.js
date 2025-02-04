@@ -2,7 +2,10 @@ import ProductCard from "@/components/products/ProductCard";
 import { Fragment } from "react";
 
 export default async function HomePage() {
-  const response = await fetch("http://localhost:5000/products");
+  const response = await fetch("http://localhost:5000/products", {
+    // cache: "force-cache",
+    next: { revalidate: 30 }, // standard time 30s
+  });
   const products = await response.json();
   console.log(products);
   return (
