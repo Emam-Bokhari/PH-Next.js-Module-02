@@ -11,7 +11,7 @@ export default async function HomePage() {
   console.log(products);
   return (
     <Fragment>
-      <p>Home Page</p>
+      <p className="text-center text-4xl my-4">Home Page</p>
 
       <div className="grid grid-cols-4 gap-2 w-[90%] m-auto">
         {products.slice(0, 4).map((item) => (

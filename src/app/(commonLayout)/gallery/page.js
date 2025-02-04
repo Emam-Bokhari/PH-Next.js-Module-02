@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Fragment } from "react";
-import nextJSImage from "../../assets/nextjs-icon.png";
+import nextJSImage from "@/assets/nextjs-icon.png";
 
 export default function GallaryPage() {
   return (
